@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Hello! I'm Thisuri Peiris.
-Nice to meet you!
+If you want to change the world, start with yourself!
+Let's change!
