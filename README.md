@@ -11,8 +11,8 @@ I am a third-year IT undergraduate looking for an opportunity to embark on my ca
         <img src="https://profile-counter.glitch.me/thisuripeiris/count.svg">
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=thisuripeiris&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" style="height: 200px; "/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisuripeiris&&exclude_repo=thisuripeiris&layout=compact&theme=dracula" alt="languages" style="height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=thisuripeiris&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" style="height: 150px; "/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisuripeiris&&exclude_repo=thisuripeiris&layout=compact&theme=dracula" alt="languages" style="height: 150px;"/>
   </div>
 </div>
 
