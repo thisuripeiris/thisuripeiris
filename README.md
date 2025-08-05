@@ -2,7 +2,7 @@
 *"If you want to change the world, start with yourself!"*
 
 ## 🤓Who Am I?
-I am a third-year IT undergraduate looking for an opportunity to embark on my career in the Software Engineering industry. Looking forward to using my expertise and gaining knowledge in all aspects of SDLC.
+I am a fourth-year IT undergraduate looking for an opportunity to embark on my career in the Software Engineering industry. Looking forward to using my expertise and gaining knowledge in all aspects of SDLC.
 
 
 ## 📊My Stats
