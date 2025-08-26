@@ -25,14 +25,22 @@ I am a fourth-year IT undergraduate looking for an opportunity to embark on my c
     </td>
     <td align="center">
       <h4>Frontend Development</h4>
-      <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma" />
+      <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css,figma" />
     </td>
-   <td align="center">
-    <h4>Backend Development</h4>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,nodejs,express" />
-  </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>Cloud Technologies</h4>
+      <img src="https://skillicons.dev/icons?i=aws" />
+    </td>
+    <td align="center">
+      <h4>Backend Development</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+    </td>
   </tr>
 </table>
+
+
 
 <div align="center">
   <h4>Other Tools</h4>
