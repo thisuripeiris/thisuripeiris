@@ -4,18 +4,6 @@
 ## 🤓Who Am I?
 I am a fourth-year IT undergraduate looking for an opportunity to embark on my career in the Software Engineering industry. Looking forward to using my expertise and gaining knowledge in all aspects of SDLC.
 
-
-## 📊My Stats
-<div align="center">
-  <div>
-        <img src="https://profile-counter.glitch.me/thisuripeiris/count.svg">
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=thisuripeiris&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" style="height: 150px; "/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisuripeiris&&exclude_repo=thisuripeiris&layout=compact&theme=dracula" alt="languages" style="height: 150px;"/>
-  </div>
-</div>
-
 ## ⚒️Technologies That I Know
 <table align="center">
   <tr>
@@ -35,7 +23,7 @@ I am a fourth-year IT undergraduate looking for an opportunity to embark on my c
     </td>
     <td align="center">
       <h4>Backend Development</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,django" />
     </td>
   </tr>
 </table>
@@ -52,9 +40,14 @@ I am a fourth-year IT undergraduate looking for an opportunity to embark on my c
     margin-top: 10px;
   ">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="transform: scale(1.2);" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="transform: scale(1.2);" />
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" style="transform: scale(1.2);" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="transform: scale(1.2);" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="transform: scale(1.2);" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" style="transform: scale(1.2);" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="transform: scale(1.2);" />
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" style="transform: scale(1.2);" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" style="transform: scale(1.2);" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" style="transform: scale(1.2);" />
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" style="transform: scale(1.2);" />
   </div>
 </div>
 
