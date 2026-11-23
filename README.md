@@ -1,15 +1,17 @@
-# Hello there, I'm Thisuri Peiris👋
+
+# Hello there, I'm Thisuri Peiris 👋
 *"If you want to change the world, start with yourself!"*
 
-## 🤓Who Am I?
-I am a fourth-year IT undergraduate looking for an opportunity to embark on my career in the Software Engineering industry. Looking forward to using my expertise and gaining knowledge in all aspects of SDLC.
+## 🤓 Who Am I?
+I am an Information Technology graduate looking for an opportunity to embark on my career in the Software Engineering industry. I am passionate about learning new technologies, building software solutions, and continuously improving my skills across all aspects of the SDLC.
 
-## ⚒️Technologies That I Know
+## ⚒️ Technologies That I Know
+
 <table align="center">
   <tr>
     <td align="center">
       <h4>Languages</h4>
-      <img src="https://skillicons.dev/icons?i=python,java,js" />
+      <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
     </td>
     <td align="center">
       <h4>Frontend Development</h4>
@@ -26,9 +28,17 @@ I am a fourth-year IT undergraduate looking for an opportunity to embark on my c
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,django" />
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h4>Testing & Automation</h4>
+      <img src="https://skillicons.dev/icons?i=selenium,cypress" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TestNG-FF0000?style=for-the-badge&logo=testng&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+  </tr>
 </table>
-
-
 
 <div align="center">
   <h4>Other Tools</h4>
@@ -39,38 +49,28 @@ I am a fourth-year IT undergraduate looking for an opportunity to embark on my c
     gap: 20px;
     margin-top: 10px;
   ">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="transform: scale(1.2);" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="transform: scale(1.2);" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" style="transform: scale(1.2);" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="transform: scale(1.2);" />
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" style="transform: scale(1.2);" />
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" style="transform: scale(1.2);" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" style="transform: scale(1.2);" />
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" style="transform: scale(1.2);" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   </div>
 </div>
 
-## 🔗Connect With Me
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 10px;">
+### 🔗 Connect With Me
 
-  <!-- Professional Contacts -->
-  <div style="display: flex; justify-content: center; gap: 70px;">
-    <a href="https://www.linkedin.com/in/thisuripeiris/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-    </a>
-    <a href="mailto:thisuri.nethmi.peiris@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" height="35" />
-    </a>
-  </div>  
-</div>
+<a href="https://www.linkedin.com/in/thisuripeiris/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:thisuri.nethmi.peiris@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="35" />
+</a>
 
-#### 🎨Follow My Arts:
+### 🎨 Follow My Arts
+
 <a href="https://www.instagram.com/thisuri_peiris/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="35" />
 </a>
-
-
-
 
